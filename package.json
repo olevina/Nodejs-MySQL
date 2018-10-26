@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "homework sql",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "idk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yeah"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "olga",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
